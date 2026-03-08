@@ -1,0 +1,5 @@
+{
+  "name": "SubSafe",
+  "description": "💳 Track, manage and cancel your subscriptions before they drain your wallet. Features a dashboard with monthly burn stats, renewal alerts, spending analytics, calendar view, and an AI-powered cancellation email generator.",
+  "requestFramePermissions": []
+}
